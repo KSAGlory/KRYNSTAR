@@ -33,12 +33,6 @@ KRYNSTAR uses fictional companies and synthetic, scenario-specific datasets shap
 
 A completed simulation can show the work a learner performed. It is not a professional qualification, a promise of employment, or proof that simulated results will match a real campaign.
 
-## Availability
-
-The first release is being designed for desktop browsers. Core practice will not require a paid AI service. Optional bring-your-own AI assistance may be added later, with an AI-free path remaining available.
-
-There is no public sign-up, release package, or launch date to announce yet. This public repository contains reviewed project information only; the application source and development infrastructure are not published here.
-
 ## Author and Community
 
 - Author: **KSAGlory**
