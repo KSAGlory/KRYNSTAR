@@ -33,11 +33,6 @@ KRYNSTAR uses fictional companies and synthetic, scenario-specific datasets shap
 
 A completed simulation can show the work a learner performed. It is not a professional qualification, a promise of employment, or proof that simulated results will match a real campaign.
 
-## Author and Community
-
-- Author: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 No application or source-code license is offered through this repository. Release terms will be stated when a public version is available.
