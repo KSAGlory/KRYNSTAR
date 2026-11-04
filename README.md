@@ -37,4 +37,4 @@ A completed simulation can show the work a learner performed. It is not a profes
 
 No application or source-code license is offered through this repository. Release terms will be stated when a public version is available.
 
-Copyright © 2026 KSAGlory. All rights reserved.
+Copyright © 2026 TEKHGlory. All rights reserved.
